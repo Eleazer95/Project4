@@ -1,0 +1,23 @@
+{
+    "remote.extensionKind": {
+
+        "pub.name": [
+            "ui"
+        ]
+    },
+    "emmet.extensionsPath": "",
+    "emmet.includeLanguages": {
+        "javascript":"javascriptreact"
+    },
+    "python.pythonPath": "C:\\Users\\Eleazer\\AppData\\Local\\Programs\\Python\\Python36\\python.exe",
+    "cSpell.words": [
+        "Sesssion",
+        "Technologhies",
+        "eatechnologies",
+        "emojione",
+        "iconify",
+        "ntahywiny",
+        "tgzdcv",
+        "todos"
+    ]
+}

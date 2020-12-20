@@ -1,0 +1,61 @@
+{
+  "name": "eleazer-web",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.31",
+    "@fortawesome/free-brands-svg-icons": "^5.15.0",
+    "@fortawesome/free-regular-svg-icons": "^5.15.0",
+    "@fortawesome/free-solid-svg-icons": "^5.15.0",
+    "@fortawesome/react-fontawesome": "^0.1.11",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "firebase": "^7.24.0",
+    "ibm-watson": "^5.7.1",
+    "netlify-cli": "^2.65.6",
+    "react": "^16.13.1",
+    "react-chatbot-kit": "^1.1.0",
+    "react-continent-country-select": "^1.0.7",
+    "react-dom": "^16.13.1",
+    "react-icons": "^3.11.0",
+    "react-image": "^4.0.3",
+    "react-images": "^1.1.7",
+    "react-img": "^1.0.3",
+    "react-native": "^0.63.3",
+    "react-player": "^2.6.2",
+    "react-reveal": "^1.2.2",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "styled-components": "^5.2.0",
+    "tmi.js": "^1.5.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@iconify/icons-emojione": "^1.0.8",
+    "@iconify/react": "^1.1.3"
+  }
+}
